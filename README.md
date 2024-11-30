@@ -1,5 +1,4 @@
 <html>
-<title style="text-align:center">My daily pubblication on youtube<img src="channels4_profile.jpg"></title>
 <h1>My daily pubblication on youtube</h1>
 <body style="background-color:dark blue">
 <header>
