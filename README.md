@@ -1,8 +1,9 @@
 <html>
-<h1>My daily pubblication on youtube</h1>
-<body style="background-color:dark blue">
+<title>My daily pubblication on youtube</title>
+<h1 style="text-align:center">My daily pubblication on youtube</h1>
+<body style="background-color:darkblue;color:purple">
 <header>
-    <p style="font-family:sans serif">Heres my daily pubblication on my youtube channel:D if you never seen my channel<a href="https://studio.youtube.com/channel/UCKfYLX40S3gadw_vnBcYKyQ">click here!<a>
+    <p style="font-family:sans-serif">Heres my daily pubblication on my youtube channel:D if you never seen my channel<a href="https://studio.youtube.com/channel/UCKfYLX40S3gadw_vnBcYKyQ">click here!<a>
 by the way heres my daily pubblications:</header>
 <main>
 <table style="border-collapse:collapse;border:1px lightpurple">
